@@ -1,5 +1,5 @@
 # One-Lined-Rock-Paper-Scissors
-rock paper scissors on one line
+rock paper scissors on one line, inspired from a r/programmerhumor post
 
 Features this code has:
 - Can quit 
