@@ -1,0 +1,1 @@
+while input("quit y/n ")!="y":print((lambda a,b:((f"{y[a]} against {y[(y.index(x)+a-4)%3]}")if b else"please enter r,p,s"))(__import__("random").choice((3,4,5)),((x:=input("r,p,s? "))in(y:=("r","p","s","won","tied","lost")))))
