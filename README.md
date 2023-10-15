@@ -14,3 +14,5 @@ How it works:
 - Inside the lambda is ternary, and if the input is not valid it will output a error message.
 - If input is valid, it will won/lost/tied with s/r/p.
 - It knowns which move the computer played using modulo and math
+
+![image](https://github.com/Evickerest/One-Lined-Rock-Paper-Scissors/assets/121898077/0da549ce-61ba-4265-be16-cd9abee17fe6)
